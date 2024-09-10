@@ -1,19 +1,31 @@
-## Welcome to Babpool 👋
+# Welcome to `Babpool` 👋
 
 ![image](https://github.com/user-attachments/assets/f9413a9f-3f9c-4bf1-9876-386fb17efa25)
 
-### About Us
+## 🗂️ Index
 
-**Babpool** is a collective of passionate developers and tech enthusiasts dedicated to building human-network solutions using computing technologies. Our mission is to create high-quality, projects that make a positive impact on the community.
+1. 프로젝트 개요
+2. 팀 소개
+3. 주요 기능
+
+## 🧑‍🤝‍🧑 About Us
+
+- 저희 **Babpool** 은 열정적인 개발자들과 기획자 그리고 디자이너가 모여 컴퓨팅 기술을 활용한 휴먼 네트워크 솔루션을 구축하고자 뭉쳤습니다.
+- 저희는 도움을 요청할 수 있는 인맥의 풀(Pool), 밥풀 처럼 끈끈한 인연을 만들고자 서비스 이름을 밥풀(Babpool)이라고 지었습니다.
+- 학기 초에 친구를 사귀지 않거나 동아리에 가입하지 않으면 친구를 사귀기 어렵다는 것을 대학에서 인맥을 쌓는 것이 얼마나 어려운지 잘 알고 계실 것입니다. 대학에 진학해 전공 이외의 분야를 탐구하기 시작하더라도 해당 분야의 지인이 없다면 유용한 정보를 얻기 어렵습니다. 이러한 점을 염두에 두고 캠퍼스에서 밥약, 즉 밥 약속을 신청하면 전공이나 동아리에 관계없이 관심사와 목표를 공유하는 사람들과 일대일로 대화할 수 있는 기회를 만들고자 했습니다.
 
 ![image](https://github.com/user-attachments/assets/5c43c4b1-8c09-4401-8a21-aff0a39601a8)
 
+## 💡 Features
 
-We named our service Babpool because we want to create a tight-knit university community, a pool of connections that can always be there to help.
+- ✅ 약속 요청
+- ✅ 약속 일정 관리
+- ✅ 실시간 약속 알림 전송
+- ✅ 후기 작성
+- ✅ 카카오 소셜 로그인
 
-You know how hard it is to make connections at university - it's hard to make friends if you don't start making friends at the beginning of the term, or if you don't join a club. Even when you get to university and start exploring fields outside of your major, it's hard to get useful information if you don't know anyone in that field. With this in mind, we wanted to create an opportunity for people to sign up for a rice pill, or rice appointment, on campus to have a one-on-one conversation with people who share their interests and goals, regardless of their major or club.
-
-### Features
+- 📦 발표자료는 다음 링크에서 확인하실 수 있습니다.
+   - [구글 드라이브 링크](https://drive.google.com/file/d/1qhkhPopRAvUU5KZlOXGFtpe0FVnBGVRZ/view?usp=sharing)
 
 |||
 |--|--|
