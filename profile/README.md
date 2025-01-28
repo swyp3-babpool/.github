@@ -32,6 +32,13 @@
 |![about-us-1](https://github.com/user-attachments/assets/7b2beb4b-a925-4a91-a9c0-c1ce31266207)|![about-us-2](https://github.com/user-attachments/assets/3963f636-51ec-43df-ad16-a010f97e1c5e)|
 |![about-us-3](https://github.com/user-attachments/assets/2061e8af-8e85-48e2-9cce-7b7ea04865d0)|![about-us-4](https://github.com/user-attachments/assets/b8c9e888-0c34-4235-b8ab-814a8d1a7922)|
 
+|||
+|--|--|
+|✅ 밥풀 전체 회원 목록 검색|✅ 밥풀 소개|
+|![프로필_목록_검색](https://github.com/user-attachments/assets/f0f4a092-fe03-4d6e-821f-30e6b5a86660)|![밥풀소개](https://github.com/user-attachments/assets/1c3559ef-a985-4010-a01f-78512eacc4ce)|
+
+
+
 ### Our Projects
 
 #### 1. Babpool [FE]
